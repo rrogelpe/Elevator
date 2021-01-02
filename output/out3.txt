@@ -1,0 +1,48 @@
+
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Eli enters the elevator with destination to floor no. 5.
+   -Babs enters the elevator with destination to floor no. 4.
+   -Rodrigo enters the elevator with destination to floor no. 1.
+   -Brenda did not ride the elevator because this floor is his/her destination.
+   -Uriel did not ride the elevator because this floor is his/her destination.
+   -Odilia enters the elevator with destination to floor no. 3.
+   -Maria enters the elevator with destination to floor no. 5.
+   -Dayi could not ride the elevator because it is full.
+   -Elevator is full.
+   -Elevator is Ascending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Maria temporarily exits the elevator.
+   -Odilia exits the elevator having temporarily exited 0 times.
+   -Elevator is Ascending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Maria temporarily exits the elevator.
+   -Rodrigo temporarily exits the elevator.
+   -Babs exits the elevator having temporarily exited 0 times.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Maria exits the elevator having temporarily exited 2 times.
+   -Rodrigo temporarily exits the elevator.
+   -Eli exits the elevator having temporarily exited 0 times.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Rodrigo exits the elevator having temporarily exited 2 times.
+   -Elevator is empty.
+   -Elevator is Ascending
+
+Elevator is empty and there are more people waiting to ride it.
+
+Total served: 5
+Total Skipped: 1
+Empty Occasions: 1
+
+End of simulation... program will now terminate

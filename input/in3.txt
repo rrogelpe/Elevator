@@ -1,0 +1,9 @@
+Eli	2	5
+Babs	2	4
+Rodrigo 2	1
+Brenda	2	2
+Uriel	2	2
+Odilia	2	3
+Maria	2	5
+Dayi	2	4
+

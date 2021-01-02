@@ -1,0 +1,71 @@
+
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Eli enters the elevator with destination to floor no. 5.
+   -Elevator is Ascending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Babs enters the elevator with destination to floor no. 2.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Babs temporarily exits the elevator.
+   -Eli exits the elevator having temporarily exited 0 times.
+   -Elevator is Descending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Rodrigo did not ride the elevator because this floor is his/her destination.
+   -Brenda enters the elevator with destination to floor no. 4.
+   -Uriel enters the elevator with destination to floor no. 5.
+   -Dayi enters the elevator with destination to floor no. 1.
+   -Michael did not ride the elevator because this floor is his/her destination.
+   -Elevator is Descending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Dayi temporarily exits the elevator.
+   -Uriel temporarily exits the elevator.
+   -Brenda temporarily exits the elevator.
+   -Babs exits the elevator having temporarily exited 1 times.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Dayi exits the elevator having temporarily exited 1 times.
+   -Elevator is Ascending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Uriel temporarily exits the elevator.
+   -Brenda exits the elevator having temporarily exited 1 times.
+   -Cindy did not ride the elevator because this floor is his/her destination.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Uriel exits the elevator having temporarily exited 2 times.
+   -Elevator is empty.
+   -Elevator is Descending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Nick enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Nick exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Elevator is Ascending
+
+Elevator is empty and there are more people waiting to ride it.
+
+Total served: 6
+Total Skipped: 0
+Empty Occasions: 2
+
+End of simulation... program will now terminate

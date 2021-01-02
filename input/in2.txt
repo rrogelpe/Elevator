@@ -1,0 +1,13 @@
+//elevator input data – collected by a Go Pro Camera you mount on the elevator ceiling.
+//Name      floor entered elevator      floor exited. 
+
+Eli	1	5
+Babs	4	2
+Rodrigo 3	3
+Brenda	3	4
+Uriel	3	5
+Dayi	3	1
+Michael	3	3
+Cindy	4	4
+
+Nick	2	1

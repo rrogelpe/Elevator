@@ -1,0 +1,2 @@
+Value in row 2 column 2 is not an integer.
+Babs	A4	2

@@ -1,0 +1,2 @@
+Value in row 3 column 2 can not be less than 1.
+Rodrigo 0	6

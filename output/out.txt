@@ -1,0 +1,298 @@
+
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Eli enters the elevator with destination to floor no. 5.
+   -Babs enters the elevator with destination to floor no. 3.
+   -Fred enters the elevator with destination to floor no. 2.
+   -Tom enters the elevator with destination to floor no. 4.
+   -Elevator is Ascending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Tom temporarily exits the elevator.
+   -Fred exits the elevator having temporarily exited 0 times.
+   -Ian enters the elevator with destination to floor no. 3.
+   -Tip enters the elevator with destination to floor no. 4.
+   -Elevator is full.
+   -Elevator is Ascending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Tip temporarily exits the elevator.
+   -Ian exits the elevator having temporarily exited 0 times.
+   -Tom temporarily exits the elevator.
+   -Babs exits the elevator having temporarily exited 0 times.
+   -Barb enters the elevator with destination to floor no. 5.
+   -Elevator is Ascending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Barb temporarily exits the elevator.
+   -Tip exits the elevator having temporarily exited 1 times.
+   -Tom exits the elevator having temporarily exited 2 times.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Barb exits the elevator having temporarily exited 1 times.
+   -Eli exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Tina enters the elevator with destination to floor no. 2.
+   -Joe enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Hal enters the elevator with destination to floor no. 2.
+   -Elevator is Descending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Ted enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Ted temporarily exits the elevator.
+   -Hal exits the elevator having temporarily exited 0 times.
+   -Joe temporarily exits the elevator.
+   -Tina exits the elevator having temporarily exited 0 times.
+   -Deb enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Deb exits the elevator having temporarily exited 0 times.
+   -Ted exits the elevator having temporarily exited 1 times.
+   -Joe exits the elevator having temporarily exited 1 times.
+   -Elevator is empty.
+   -Ann enters the elevator with destination to floor no. 3.
+   -Jim enters the elevator with destination to floor no. 3.
+   -Sal enters the elevator with destination to floor no. 3.
+   -Vic enters the elevator with destination to floor no. 4.
+   -Flo enters the elevator with destination to floor no. 5.
+   -Ada could not ride the elevator because it is full.
+   -Elevator is full.
+   -Elevator is Ascending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Dina could not ride the elevator because it is full.
+   -Bob could not ride the elevator because it is full.
+   -Elevator is full.
+   -Elevator is Ascending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Flo temporarily exits the elevator.
+   -Vic temporarily exits the elevator.
+   -Sal exits the elevator having temporarily exited 0 times.
+   -Jim exits the elevator having temporarily exited 0 times.
+   -Ann exits the elevator having temporarily exited 0 times.
+   -Elevator is Ascending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Flo temporarily exits the elevator.
+   -Vic exits the elevator having temporarily exited 1 times.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Flo exits the elevator having temporarily exited 2 times.
+   -Elevator is empty.
+   -Lee enters the elevator with destination to floor no. 3.
+   -Elevator is Descending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Wil enters the elevator with destination to floor no. 3.
+   -Gia enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Gia temporarily exits the elevator.
+   -Wil exits the elevator having temporarily exited 0 times.
+   -Lee exits the elevator having temporarily exited 0 times.
+   -Isa enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Isa exits the elevator having temporarily exited 0 times.
+   -Gia exits the elevator having temporarily exited 1 times.
+   -Elevator is empty.
+   -Abe enters the elevator with destination to floor no. 3.
+   -Lou enters the elevator with destination to floor no. 3.
+   -Yul enters the elevator with destination to floor no. 4.
+   -Al enters the elevator with destination to floor no. 4.
+   -Elevator is Ascending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Lew enters the elevator with destination to floor no. 5.
+   -Nan could not ride the elevator because it is full.
+   -Elevator is full.
+   -Elevator is Ascending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Lew temporarily exits the elevator.
+   -Al temporarily exits the elevator.
+   -Yul temporarily exits the elevator.
+   -Lou exits the elevator having temporarily exited 0 times.
+   -Abe exits the elevator having temporarily exited 0 times.
+   -Ina enters the elevator with destination to floor no. 4.
+   -Bif enters the elevator with destination to floor no. 5.
+   -Moe could not ride the elevator because it is full.
+   -Elevator is full.
+   -Elevator is Ascending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Bif temporarily exits the elevator.
+   -Ina exits the elevator having temporarily exited 0 times.
+   -Lew temporarily exits the elevator.
+   -Al exits the elevator having temporarily exited 1 times.
+   -Yul exits the elevator having temporarily exited 1 times.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Bif exits the elevator having temporarily exited 1 times.
+   -Lew exits the elevator having temporarily exited 2 times.
+   -Elevator is empty.
+   -Jan enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Jan exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Mia enters the elevator with destination to floor no. 3.
+   -Lisa enters the elevator with destination to floor no. 4.
+   -Elevator is Ascending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Cal enters the elevator with destination to floor no. 5.
+   -Elevator is Ascending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Cal temporarily exits the elevator.
+   -Lisa temporarily exits the elevator.
+   -Mia exits the elevator having temporarily exited 0 times.
+   -Elevator is Ascending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Cal temporarily exits the elevator.
+   -Lisa exits the elevator having temporarily exited 1 times.
+   -Pat enters the elevator with destination to floor no. 5.
+   -Tess enters the elevator with destination to floor no. 2.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Tess temporarily exits the elevator.
+   -Pat exits the elevator having temporarily exited 0 times.
+   -Cal exits the elevator having temporarily exited 2 times.
+   -Elevator is Descending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Nora enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Nora temporarily exits the elevator.
+   -Tess exits the elevator having temporarily exited 1 times.
+   -Don enters the elevator with destination to floor no. 1.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Don exits the elevator having temporarily exited 0 times.
+   -Nora exits the elevator having temporarily exited 1 times.
+   -Elevator is empty.
+   -Sam enters the elevator with destination to floor no. 5.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Sam exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Liv enters the elevator with destination to floor no. 4.
+   -Elevator is Descending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Liv exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Nina enters the elevator with destination to floor no. 3.
+   -Elevator is Ascending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Nina exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Mary enters the elevator with destination to floor no. 2.
+   -Elevator is Descending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Mary exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Elevator is Descending
+*****************************************
+*		Floor 1			*
+*****************************************
+   -Ed enters the elevator with destination to floor no. 2.
+   -Elevator is Ascending
+*****************************************
+*		Floor 2			*
+*****************************************
+   -Ed exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Tad enters the elevator with destination to floor no. 3.
+   -Elevator is Ascending
+*****************************************
+*		Floor 3			*
+*****************************************
+   -Tad exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Ali enters the elevator with destination to floor no. 4.
+   -Elevator is Ascending
+*****************************************
+*		Floor 4			*
+*****************************************
+   -Ali exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Sue enters the elevator with destination to floor no. 5.
+   -Elevator is Ascending
+*****************************************
+*		Floor 5			*
+*****************************************
+   -Sue exits the elevator having temporarily exited 0 times.
+   -Elevator is empty.
+   -Elevator is Descending
+
+Elevator is empty and there are more people waiting to ride it.
+
+Total served: 44
+Total Skipped: 5
+Empty Occasions: 15
+
+End of simulation... program will now terminate
